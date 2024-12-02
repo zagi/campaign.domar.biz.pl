@@ -1,0 +1,32 @@
+{
+	"form": {
+		"errors": {
+			"required": "Textfield ist erforderlich.",
+			"invalid-email": "Ungültige E-Mail-Adresse.",
+			"invalid-phone": "Ungültige Telefonnummer.",
+			"privacy-required": "Sie müssen die Datenschutzbestimmungen akzeptieren."
+		},
+		"label": {
+			"name": "Vor- und Nachname",
+			"e-mail": "E-Mail-Adresse",
+			"phone-number": "Telefonnummer",
+			"message": "Nachricht",
+			"privacy": "Ich stimme der Verarbeitung meiner personenbezogenen Daten zu Marketingzwecken zu."
+		},
+		"button": {
+			"send": "Senden"
+		},
+		"privacy": "Verantwortlich für Ihre personenbezogenen Daten ist {companyName} mit Sitz in {city}. Ihre personenbezogenen Daten werden zu Marketingzwecken sowie zur eventuellen Geltendmachung, Durchsetzung oder Abwehr von Ansprüchen verarbeitet."
+	},
+	"content": {
+		"main": {
+			"title": "Außergewöhnliche Türen für Ihr Interieur",
+			"sub-title": "Stil, Qualität und Perfektion – wählen Sie Türen, die Ihren Raum zum Besseren verändern!"
+		}
+	},
+	"common": {
+		"loading": "Laden...",
+		"success": "Erfolg! Die Nachricht wurde gesendet.",
+		"error": "Ups... Es scheint, dass ein Fehler aufgetreten ist. Bitte versuchen Sie es später erneut."
+	}
+}

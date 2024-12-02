@@ -1,0 +1,32 @@
+{
+	"form": {
+		"errors": {
+			"required": "Pole jest wymagane.",
+			"invalid-email": "Nieprawidłowy adres e-mail.",
+			"invalid-phone": "Nieprawidłowy numer telefonu.",
+			"privacy-required": "Musisz zaakceptować politykę prywatności."
+		},
+		"label": {
+			"name": "Imię i nazwisko",
+			"e-mail": "Adres e-mail",
+			"phone-number": "Numer telefonu",
+			"message": "Wiadomość",
+			"privacy": "Wyrażam zgodę na przetwarzanie moich danych osobowych w celach marketingowych."
+		},
+		"button": {
+			"send": "Wyślij"
+		},
+		"privacy": "Administratorem Twoich danych osobowych jest {companyName} z siedzibą w {city}. Twoje dane osobowe będą przetwarzane w celach marketingowych, a także w celu ewentualnego ustalenia, dochodzenia roszczeń lub obrony przed nimi."
+	},
+	"content": {
+		"main": {
+			"title": "Wyjątkowe drzwi do Twojego wnętrza",
+			"sub-title": "Styl, jakość i perfekcja – wybierz drzwi, które zmienią Twoją przestrzeń na lepsze!"
+		}
+	},
+	"common": {
+		"loading": "Ładowanie...",
+		"success": "Udało się! Wiadomość została wysłana.",
+		"error": "Ups... Wygląda na to, że wystąpił jakiś błąd. Spróbuj ponownie później."
+	}
+}

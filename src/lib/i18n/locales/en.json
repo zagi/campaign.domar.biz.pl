@@ -1,0 +1,32 @@
+{
+	"form": {
+		"errors": {
+			"required": "Field is required.",
+			"invalid-email": "Invalid email address.",
+			"invalid-phone": "Invalid phone number.",
+			"privacy-required": "You must accept the privacy policy."
+		},
+		"label": {
+			"name": "Full Name",
+			"e-mail": "Email Address",
+			"phone-number": "Phone Number",
+			"message": "Message",
+			"privacy": "I consent to the processing of my personal data for marketing purposes."
+		},
+		"button": {
+			"send": "Send"
+		},
+		"privacy": "The administrator of your personal data is {companyName}, located in {city}. Your personal data will be processed for marketing purposes and for the potential establishment, pursuit, or defense of claims."
+	},
+	"content": {
+		"main": {
+			"title": "Exceptional Doors for Your Interior",
+			"sub-title": "Style, quality, and perfection – choose doors that transform your space for the better!"
+		}
+	},
+	"common": {
+		"loading": "Loading...",
+		"success": "Success! The message has been sent.",
+		"error": "Oops... It seems that an error occurred. Please try again later."
+	}
+}
